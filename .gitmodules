@@ -1,0 +1,6 @@
+[submodule "DevEnvChefVM"]
+	path = DevEnvChefVM
+	url = https://github.com/victorsibanda/DevEnvChefVM
+[submodule "PythonEnvPackerAMI"]
+	path = PythonEnvPackerAMI
+	url = https://github.com/victorsibanda/PythonEnvPackerAMI
