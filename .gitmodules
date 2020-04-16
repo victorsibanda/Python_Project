@@ -4,3 +4,6 @@
 [submodule "PythonEnvPackerAMI"]
 	path = PythonEnvPackerAMI
 	url = https://github.com/victorsibanda/PythonEnvPackerAMI
+[submodule "Dev_Env_VM"]
+	path = Dev_Env_VM
+	url = https://github.com/victorsibanda/Dev_Env_VM
